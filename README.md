@@ -29,11 +29,12 @@ Build and install
 FaztWeb, as TazWeb depends on GTK and libwebkit. To build and test, simply:
 
 $ make
+
 $ ./faztweb
 
 To install:
 
-# make install
+\# make install
 
 Coding notes
 ------------
