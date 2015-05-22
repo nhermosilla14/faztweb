@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Name=FaztWeb Browser
+Name[pt]=Navegador FaztWeb
+Name[pt_BR]=Navegador FaztWeb
+Name[ru]=Браузер FaztWeb
+Comment=Simple, fast and small Web Browser
+Comment[pt]=Navegador web simples e rápido
+Comment[pt_BR]=Navegador web simples e rápido
+Comment[ru]=Простой, быстрый и маленький браузер
+Icon=faztweb
+Exec=faztweb %u
+Categories=Network;WebBrowser;
+MimeType=text/html;text/xml;text/plain;application/xhtml+xml;application/xml;image/svg+xml;application/x-shockwave-flash;image/jpeg;image/png;
