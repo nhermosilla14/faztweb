@@ -19,7 +19,7 @@ that distro.
 - FaztWeb allows you to change the default home, search engine and/or user agent,
 for more info execute:
 
-$ faztweb --help
+   $ faztweb --help
 
 - FaztWeb doesn't support bookmarks.
 
@@ -47,7 +47,7 @@ Coding notes
               G_CALLBACK (mime_type_decision_cb), webview);
 
     * Get user config directory path in $HOME:
-      config = g_strdup_printf ("%s/.config/tazweb", g_get_home_dir ());
+      config = g_strdup_printf ("%s/.config/faztweb", g_get_home_dir ());
 
     * Change font of a widget:
       PangoFontDescription *font;
@@ -59,7 +59,7 @@ Coding notes
       gtk_widget_set_size_request(toolbar, 0, 28);
 
     * Append a string
-      g_string_append(string, " - TazWeb");
+      g_string_append(string, " - FaztWeb");
 
     * Editable webview
       webkit_web_view_set_editable (webview, TRUE);
