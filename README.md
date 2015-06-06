@@ -12,10 +12,9 @@ responsiveness and speed, security and an "always private-mode" approach.
 
 Some differences:
 
-- FaztWeb removes all the references to SliTaz, which is unuseful out of
-that distro.
-
-- FaztWeb features StartPage both as default search engine and as home.
+- FaztWeb removes all the references to SliTaz, which are not useful out 
+of that distro.
+- FaztWeb features StartPage both as default search engine and as homepage.
 - FaztWeb allows you to change the default home, search engine and/or user agent,
 for more info execute:
 
