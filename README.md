@@ -7,7 +7,7 @@ to learn some gtk programming, and eventually turned to something pretty
 useful.
 FaztWeb aims to provide several improvements over TazWeb, like an
 "omnibar" and more customizability through cli args, while keeping
-the very best ones of it older brother: minimal interface, great
+the very best ones of its older brother: minimal interface, great
 responsiveness and speed, security and an "always private-mode" approach.
 
 Some differences:
